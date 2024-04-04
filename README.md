@@ -1,4 +1,3 @@
-
 ![5ec6ace6686a1443ec74b4dd_at job 06](https://github.com/Dev026/Dev026/assets/98211980/62b52249-8c99-408d-a75f-6f341d2b6b88)
 
 👋 Hello there! I'm Dev, a passionate machine learning enthusiast currently pursuing my studies at Lambton College in Toronto 🇨🇦. As a dedicated student.
