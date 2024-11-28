@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/4865829a-e6a8-4df3-8a4d-9201a65867c6)
+![image](https://github.com/user-attachments/assets/26529c8a-30c2-4057-93ce-d7d6d8ca728c)
+
 
 
 👋 Hello there! I'm Dev, a passionate machine learning enthusiast currently pursuing my studies at Lambton College in Toronto 🇨🇦. As a dedicated student.
